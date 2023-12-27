@@ -1,4 +1,4 @@
-This project is essentially designed with HTML and CSS for New Year 2024. Create a repository for this project and send it to your friend.
+This projectproject is essentially designed with HTML and CSS for New Year 2024. Create a repository for this project and send it to your friend.
 
 Link to visit https://aman9113.github.io/newyear2024/
 
